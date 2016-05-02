@@ -1,0 +1,139 @@
+@font-face {
+   font-family: 'icomoon';
+   src:url('./icomoon.woff') format('woff');
+   font-weight: normal;
+   font-style: normal;
+}
+
+[class^="icon-"], [class*=" icon-"] {
+   font-family: 'icomoon';
+   speak: none;
+   font-style: normal;
+   font-weight: normal;
+   font-variant: normal;
+   text-transform: none;
+   line-height: 1;
+   font-size: 16px;
+
+   /* Better Font Rendering */
+   -webkit-font-smoothing: antialiased;
+   -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-align_c:before {
+   content: "\e900";
+}
+
+.icon-align_l:before {
+   content: "\e901";
+}
+
+.icon-align_r:before {
+   content: "\e902";
+}
+
+.icon-bold:before {
+   content: "\e903";
+}
+
+.icon-cardLayout:before {
+   content: "\e904";
+   color: #247A28;
+   position: absolute;
+   top: 8px;
+}
+
+.icon-close:before {
+   content: "\e905";
+}
+
+.icon-close:hover:before, .icon-close_hover:before {
+   content: "\e906";
+}
+
+.icon-color_bg:before {
+   content: "\e907";
+}
+
+.icon-color_fg:before {
+   content: "\e908";
+}
+
+.icon-dbIcon:before {
+   content: "\e909";
+}
+
+.icon-gridLayout:before {
+   content: "\e90a";
+   color: #247A28;
+   position: absolute;
+   top: 8px;
+}
+
+.icon-indexIcon:before {
+   content: "\e90b";
+   line-height: 25px;
+}
+
+.icon-integratedLayout:before {
+   content: "\e90c";
+   position: absolute;
+   color: #247A28;
+   top: 8px;
+}
+
+.icon-italic:before {
+   content: "\e90d";
+}
+
+.icon-portaletLayout:before {
+   content: "\e90e";
+   color: #247A28;
+   position: absolute;
+   top: 8px;
+}
+
+.icon-queryIcon:before {
+   content: "\e90f";
+}
+
+.icon-schedulerIcon:before {
+   content: "\e910";
+}
+
+.icon-secureIcon:before {
+   content: "\e911";
+}
+
+.icon-tabLayout:before {
+   content: "\e912";
+   color: #247A28;
+   position: absolute;
+   top: 8px;
+}
+
+.icon-underline:before {
+   content: "\e913";
+}
+
+.icon-verticalLayout:before {
+   content: "\e914";
+   color: #247A28;
+   position: absolute;
+   top: 8px;
+}
+
+.icon-viewerIcon:before {
+   content: "\e915";
+}
+
+.icon-webpage:before {
+   content: "\e916";
+   position: absolute;
+   top: 10px;
+   left: 15px;
+}
+
+.icon-portaletCellIcon:before {
+    content: "\e917";
+}
